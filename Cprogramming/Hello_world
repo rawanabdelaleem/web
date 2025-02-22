@@ -1,0 +1,9 @@
+tempreture  = 40 
+if tempreture>=30:
+    print ('It’s a hot day .stay hydrated!')
+if tempreture ==[20,29]:
+    print ('It’s warm dayEnjoy the weather!')
+if  tempreture ==[10,19]:
+    print ('It’s coll day.wear a jacket!')
+if tempreture <10:
+    print ('It’s cold day . stay warm!')
