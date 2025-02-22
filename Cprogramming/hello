@@ -1,0 +1,4 @@
+numbers=range (1,21)
+for rr in numbers :
+    if rr %3==0:
+        print(rr)
